@@ -1,4 +1,4 @@
-# Stata-司继春
+# Stata-司继春老师
 
 ![](../img/stata.jpeg)
 
