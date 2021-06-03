@@ -10,7 +10,7 @@
 - 每天6小时（8:30 — 11:30；14:00 — 17:00）+ 30分钟答疑
 - 软件：Stata 14及以上
 
-
+<br>
 
 # 课程大纲
 
@@ -19,7 +19,7 @@
 - 断点回归 
 - 合成控制及最新实证方法补充 
 
-
+<br>
 
 # 讲师
 
@@ -31,9 +31,7 @@
 
 
 
-
-
-![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+<br>
 
 # 课程目录
 
@@ -76,6 +74,8 @@
 
 
 
+<br>
+
 # 报名信息
 
 ## 参加对象
@@ -115,7 +115,6 @@
 - 13967800957（同微信）（陈老师）
 
   <img src="../img/陈昊钦.png" width = "300" height = "300" alt="图片名称" align=center />
-
 
 
 
