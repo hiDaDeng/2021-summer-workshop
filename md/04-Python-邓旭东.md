@@ -5,7 +5,7 @@
 1. **从网络世界中高效地采集数据**
 2. **从纷杂的文本数据抽取文本信息**
 
-
+<br>
 
 # 课程概览
 
@@ -31,10 +31,6 @@
 **邓旭东**：哈尔滨工业大学在读博士，曾在多所大学分享Python，运营【公众号：大邓和他的Python】擅长Python、网络爬虫、文本分析、机器学习等内容。
 
 <img src="../img/邓旭东.png" width = "auto" height = "500" alt="图片名称" align=center />
-
-
-
-
 
 
 
@@ -73,7 +69,7 @@
 - 网络访问requests库
 - pyquery库解析html网页
 - **案例 1**：豆瓣小说
--  json库解析json网页
+- json库解析json网页
 - **案例 2**：知乎
 - **案例 3**：微博
 - **案例 4**： 批量下载文档、多媒体文件
@@ -128,9 +124,7 @@
 - **案例 21**: 识别图片中的文本
 - Python爬虫、文本分析、机器学习等技术在论文中的应用赏析
 
-
-
-![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+<br>
 
 # 报名信息
 
