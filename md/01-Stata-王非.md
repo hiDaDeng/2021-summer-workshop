@@ -1,4 +1,4 @@
-# Stata-王非
+# Stata-王非老师
 
 ![](../img/stata.jpeg)
 
