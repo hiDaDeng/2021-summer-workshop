@@ -114,7 +114,7 @@
 
 - 13967800957（同微信）（陈老师）
 
-  <img src="../img/陈昊钦.png" width = "300" height = "300" alt="图片名称" align=center />
+![](../img/陈昊钦.png)
 
 
 
