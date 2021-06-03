@@ -110,29 +110,29 @@
 
 **王子**：美国宾夕法尼亚州立大学经济学博士，上海财经大学商学院助理教授。研究领域为国际贸易、跨国企业和中国经济，在Journal of International Economics、Journal of International Money and Finance、World Economy等刊物发表多篇论文。曾应邀在多所高校讲授“结构方程模型方法和应用”前沿课程，广受好评。
 
-<img src="img/王子.png" width = "auto" height = "500" alt="邓旭东" align=center />
+<img src="img/王子.png" width = "auto" height = "500" alt="xxx" align=center />
 
 **邓建鹏**：美国宾夕法尼亚州立大学经济学博士，上海财经大学商学院助理教授。主要研究领域为国际贸易、经济增长和经济地理。曾在多所高校分享结构模型方法在国际贸易中的应用，反响热烈。
 
-<img src="img/邓建鹏.png" width = "auto" height = "500" alt="邓旭东" align=center />
+<img src="img/邓建鹏.png" width = "auto" height = "500" alt="xxx" align=center />
 
 ----
 
 **王非**：美国南加州大学经济学博士，中国人民大学劳动人事学院副教授，“杰出学者”青年学者，人大国家发展与战略研究院研究员，全球劳动组织（GLO）会员，中国就业研究所研究员。主持国家自然科学基金青年科学基金项目。主要研究领域为劳动经济学、人口经济学、主观福祉等，在 PNAS, Journal of Happiness Studies, Journal of Population Economics，China Economic Review，《人口研究》等国内外权威期刊上发表多篇论文。曾多次讲授微观实证研究方法，广受好评，《Stata简明讲义》作者。
 
-<img src="img/王非.png" width = "auto" height = "500" alt="邓旭东" align=center />
+<img src="img/王非.png" width = "auto" height = "500" alt="xxx" align=center />
 
 ----
 
 **司继春**（慧航）：上海对外经贸大学统计与信息学院助理教授，主要研究领域为微观计量经济学、产业组织理论。在 Journal of Business and Economic Statistics、《财经研究》等学术刊物上发表多篇论文。其实，大家更熟悉的是知乎上大名鼎鼎的[慧航]，拥有 294,929 个关注者，获得过 151,655 次赞同，他就是司继春老师 —— [慧航]。
 
-<img src="img/司继春.png" width = "auto" height = "500" alt="邓旭东" align=center />
+<img src="img/司继春.png" width = "auto" height = "500" alt="xxx" align=center />
 
 
 
 **邓旭东**：哈尔滨工业大学在读博士，曾在多所大学分享Python，运营【公众号：大邓和他的Python】擅长Python、网络爬虫、文本分析、机器学习等内容。
 
-<img src="img/邓旭东.png" width = "auto" height = "500" alt="邓旭东" align=center />
+<img src="img/邓旭东.png" width = "auto" height = "500" alt="xxx" align=center />
 
 
 
