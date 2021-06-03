@@ -1,7 +1,4 @@
 
-<style scoped lang="less">
-  @import './mds/pixyll.css'
-</style>
 
 
 # 课程概览
