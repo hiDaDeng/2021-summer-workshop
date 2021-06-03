@@ -1,6 +1,8 @@
 # Stata-王非
 
+![](../img/stata.jpeg)
 
+<br>
 
 # 课程概览
 
