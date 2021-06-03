@@ -140,6 +140,8 @@
 
 <br>
 
+![](img/stata.jpeg)
+
 # 五、stata（王非）
 
 
@@ -240,6 +242,7 @@
 
 <br>
 
+![](img/matlab.jpeg)
 
 # 七、结构模型
 
@@ -279,6 +282,7 @@
 
 <br>
 
+![](img/python.png)
 
 # 八、Python（邓旭东）
 
