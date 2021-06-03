@@ -103,9 +103,9 @@
 - 机器学习，如LDA话题模型、文本分类等
 
 
+<br>
 
 # 讲师简介
-
 
 
 **王子**：美国宾夕法尼亚州立大学经济学博士，上海财经大学商学院助理教授。研究领域为国际贸易、跨国企业和中国经济，在Journal of International Economics、Journal of International Money and Finance、World Economy等刊物发表多篇论文。曾应邀在多所高校讲授“结构方程模型方法和应用”前沿课程，广受好评。
@@ -134,7 +134,13 @@
 
 <img src="img/邓旭东.png" width = "auto" height = "500" alt="邓旭东" align=center />
 
-## stata（王非）
+
+
+
+
+<br>
+
+# stata（王非）
 
 
 
@@ -175,7 +181,7 @@
 
 
 
-
+<br>
 
 # Stata（司继春）
 
@@ -232,7 +238,7 @@
 - 固定效应Probit、Logit回归
 
 
-
+<br>
 
 
 # 结构模型（王子）
@@ -249,7 +255,7 @@
 - 量化政策分析的具体实施过程，以Caliendo and Parro (2015)为例（算法和Matlab编程）
 
 
-
+<br>
 
 
 # 结构模型（邓建鹏）
@@ -267,7 +273,7 @@
 - 反事实分析(算法和Matlab编程)
 
 
-
+<br>
 
 
 # Python（邓旭东）
@@ -345,7 +351,7 @@
 - Python爬虫、文本分析、机器学习等技术在论文中的应用赏析
 
 
-
+<br>
 
 
 # 报名信息
