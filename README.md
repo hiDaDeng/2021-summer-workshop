@@ -139,6 +139,9 @@
 
 
 <br>
+<br>
+<br>
+
 
 ![](img/stata.jpeg)
 
@@ -183,6 +186,9 @@
 
 
 
+
+<br>
+<br>
 <br>
 
 # 六、Stata（司继春）
@@ -240,9 +246,13 @@
 - 固定效应Probit、Logit回归
 
 
+
+<br>
+<br>
 <br>
 
 ![](img/matlab.jpeg)
+
 
 # 七、结构模型
 
@@ -280,6 +290,9 @@
 - 反事实分析(算法和Matlab编程)
 
 
+
+<br>
+<br>
 <br>
 
 ![](img/python.png)
@@ -359,6 +372,9 @@
 - Python爬虫、文本分析、机器学习等技术在论文中的应用赏析
 
 
+
+<br>
+<br>
 <br>
 
 
